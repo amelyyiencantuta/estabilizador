@@ -1,0 +1,29 @@
+body {
+font-family:'Times New Roman', Times, serif;
+background-image: url('fondo.jpg');
+}
+header {
+background-image: url('ima1.jpg');
+font-size: 4vw;
+color: white;
+padding: 7px;
+text-align: center;
+}
+header nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: space-between;
+}
+.hola{
+    background-color: #10ceae;
+    color: black;
+}
+header nav ul li {
+margin-right: 20px;
+}
+
+header nav a {
+color:rgb(78, 163, 163)
+}
